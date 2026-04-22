@@ -1,4 +1,5 @@
-# JamZia™ v1.0 — Network Solutions Deployment Package
+# JamZia — The Everything App
+## v1.0 — Network Solutions Deployment Package
 
 ## Upload Instructions
 
@@ -106,5 +107,5 @@ If any links 404 after upload:
 4. Check File Manager shows all files uploaded
 
 ## Version
-JamZia™ v1.0 — April 16, 2026
+JamZia — The Everything App | v1.0 — April 16, 2026
 Total Size: ~52 KB (compressed: ~20 KB)
